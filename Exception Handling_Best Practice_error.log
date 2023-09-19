@@ -1,0 +1,5 @@
+ERROR:root:This is my zero division error I am handling : division by zero
+ERROR:root:This is my zero division error : division by zero
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+ERROR:Comm:No such comm target registered: jupyter.widget.control
